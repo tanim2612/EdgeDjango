@@ -1,3 +1,3 @@
 # EdgeDjango
 
-## this is my project
+##my first project
